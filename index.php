@@ -208,7 +208,7 @@ line-height: 1.4;
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your PHP application API on OpenShift</h1>
+            <h1>Welcome to Superliga application API</h1>
           </hgroup>
 
 
@@ -233,7 +233,6 @@ $ git push</pre>
 
 
                   <ul>
-                    <li><a href="https://developers.openshift.com/en/managing-modifying-applications.html">Learn more about deploying and building your application</a></li>
                     <li>See the README file in your local application Git repository for more information on the options for deploying applications.</li>
                   </ul>
             </section>
@@ -258,7 +257,7 @@ $ git push</pre>
                     <li><a href="https://help.openshift.com">Help Center</a></li>
                     <li><a href="http://stackoverflow.com/questions/tagged/openshift">Stack Overflow questions for OpenShift</a></li>
                     <li><a href="http://git-scm.com/documentation">Git documentation</a></li>
-					<li><a href="http://ingalb.info">Ingalb Company Copyright</a></li>
+		    <li><a href="http://ingalb.info">Ingalb Company Copyright</a></li>
                   </ul>
 
 
@@ -267,7 +266,7 @@ $ git push</pre>
 
 
         <footer>
-          <div class="logo"><a href="https://www.openshift.com/"></a></div>
+          <div class="logo"><a href="https://www.ingalb.info/"></a></div>
         </footer>
 </section>
 
