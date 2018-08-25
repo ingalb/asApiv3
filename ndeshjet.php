@@ -19,10 +19,10 @@ case "kombetarja":
   $url="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/teamplan/112/".$ekipi.".html?format=raw&app_id=".$app_id;
   break;
 case "superliga":
-  $url="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/teamplan/117/".$ekipi.".html?format=raw&app_id=".$app_id;
+  $url="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/teamplan/121/".$ekipi.".html?format=raw&app_id=".$app_id;
   break;
 case "superliga1":
-  $url="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/teamplan/117/".$ekipi.".html?format=raw&app_id=".$app_id;
+  $url="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/teamplan/121/".$ekipi.".html?format=raw&app_id=".$app_id;
   $url1="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/teamplan/118/".$ekipi.".html?format=raw&app_id=".$app_id;
   break;
 case "109":
