@@ -21,6 +21,9 @@ case "kosova":
 case "109":	
 	$url="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/ranking/109.html?format=raw&division=24&app_id=".$app_id;
     break;
+case "121":	
+	$url="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/ranking/121.html?format=raw&division=40&app_id=".$app_id;
+    break;
 default:
   $url="http://www.albaniasoccer.com/statistika/shqiperi/kombetarja/ranking/$id-boterori-2014-brazil.html?format=raw&app_id=".$app_id;
 }
