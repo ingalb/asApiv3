@@ -22,6 +22,7 @@ case "1": //Superliga
   break;
 case "2": //Kupa
   $content = '[
+        { "text": "Kupa e Shqiperise 2018-19", "value": 123 },
         { "text": "Kupa e Shqiperise 2017-18", "value": 118 },
         { "text": "Kupa e Shqiperise 2016-17", "value": 113 },
         { "text": "Kupa e Shqiperise 2015-16", "value": 106 },
