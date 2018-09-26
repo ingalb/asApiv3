@@ -208,7 +208,7 @@ line-height: 1.4;
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to Superliga application API v25.08.2018</h1>
+            <h1>Welcome to Superliga application API v26.09.2018</h1>
           </hgroup>
 
 
