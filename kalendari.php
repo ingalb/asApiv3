@@ -9,7 +9,7 @@ case "kombetarja":
   $url="http://albaniasoccer.com/statistika/shqiperi/kombetarja/results/94-boterori-2014-brazil/".$java.".html?format=raw&app_id=".$app_id;
   break;
 case "superliga":
-  $url="http://albaniasoccer.com/statistika/shqiperi/kombetarja/results/117-boterori-2014-brazil/".$java.".html?format=raw&app_id=".$app_id;
+  $url="http://albaniasoccer.com/statistika/shqiperi/kombetarja/results/125-boterori-2014-brazil/".$java.".html?format=raw&app_id=".$app_id;
   break;
 case "kategoria1":
     $url="http://albaniasoccer.com/statistika/shqiperi/kombetarja/results/92-boterori-2014-brazil/".$java.".html?format=raw&app_id=".$app_id;
