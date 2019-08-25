@@ -9,6 +9,7 @@ switch ($id)
 {
 case "1": //Superliga
      $content = '[
+        { "text": "Superliga 2019-20", "value": 125 },
         { "text": "Kategoria 1 2018-19", "value": 121 },
 	{ "text": "Superliga 2017-18", "value": 117 },
 	{ "text": "Superliga 2016-17", "value": 111 },
@@ -67,6 +68,7 @@ case "5":
 	break;
 default:
 $content = '[
+        { "text": "Superliga 2019-20", "value": 125 },
         { "text": "Kategoria 1 2018-19", "value": 121 },
         { "text": "Superliga 2017-18", "value": 117 },
         { "text": "Superliga 2016-17", "value": 111 },
